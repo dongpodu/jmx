@@ -1,4 +1,4 @@
-package com.well.jmx;
+package com.elisonwell.jmx;
 
 public class HelloWorld implements HelloWorldMBean{
 	private String name;      
@@ -9,6 +9,7 @@ public class HelloWorld implements HelloWorldMBean{
         this.name = name;      
     }      
     public void printHello() {      
+    	
         System.out.println("Hello World, " + name);      
     }      
     public void printHello(String whoName) {      

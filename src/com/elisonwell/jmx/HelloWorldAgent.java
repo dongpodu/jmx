@@ -1,4 +1,4 @@
-package com.well.jmx;
+package com.elisonwell.jmx;
 
 import java.io.IOException;
 import java.rmi.registry.LocateRegistry;

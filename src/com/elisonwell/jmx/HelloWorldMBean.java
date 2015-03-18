@@ -1,4 +1,4 @@
-package com.well.jmx;
+package com.elisonwell.jmx;
 
 public interface HelloWorldMBean {
 	public String getName();          
